@@ -74,27 +74,38 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ### Value of df:
-![image](https://github.com/user-attachments/assets/15e83408-2bf9-44fc-9e6f-eb58669783f8)
+![image](https://github.com/user-attachments/assets/c788ffa9-7136-4627-be6c-f62cbff1651c)
 
-### df.head() and df.isnull().sum()
-![image](https://github.com/user-attachments/assets/a65b7b7e-9b64-4810-8837-375bb51d5a2a)
-
-### df.describe()
-![image](https://github.com/user-attachments/assets/707c5a6b-3fb0-4072-a159-0061f54eac51)
-
-### df.info() and Value counts
-![image](https://github.com/user-attachments/assets/9afc341d-4ed8-4674-a40c-6ce29833c058)
 
 ### df.head()
-![image](https://github.com/user-attachments/assets/b75300a1-1f49-48d4-81fc-bb88435723a0)
+![image](https://github.com/user-attachments/assets/c6d96ebf-0063-4912-aa1b-83c1945d77cc)
+
+
+### df.describe()
+![image](https://github.com/user-attachments/assets/16a460ea-a04b-4631-b8ad-fcf0eba6bf5e)
+
+
+### df.info()
+![image](https://github.com/user-attachments/assets/ca63162e-4105-40c2-ba2c-21680811ac01)
+
+### df.isnull().sum()
+![image](https://github.com/user-attachments/assets/e22e1288-8032-4f53-a3e2-0e35b8d27266)  ![image](https://github.com/user-attachments/assets/66edd8ee-7dad-480d-9e7c-ac796ce9d9e3)![image](https://github.com/user-attachments/assets/be462836-5adc-4d4f-8d33-56a0be553dc7)
+
+
+
 
 ### Value of x.head() and y
 
-![image](https://github.com/user-attachments/assets/4f908e6a-a5af-4959-a30a-0cfa2136056a)
+![image](https://github.com/user-attachments/assets/aa92d499-bc47-4297-9f4d-8707a5fd8df0)    ![image](https://github.com/user-attachments/assets/05c6d866-9932-4c26-8d3b-7ef2e8938d9c)
+
+![image](https://github.com/user-attachments/assets/29d36c4d-bdc9-4117-b165-4c86c5968b3d)
+
+
+
 
 ### Value of Accuracy,Confusion_matrix and data prediction
+![image](https://github.com/user-attachments/assets/ecb48f84-e6c9-4435-a450-3ebaf686df22)
 
-![image](https://github.com/user-attachments/assets/d5c914fb-5283-4ed8-9ae1-64984260b5a3)
 
 
 
